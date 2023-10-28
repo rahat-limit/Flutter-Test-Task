@@ -15,4 +15,8 @@ dependencies:
   intl: ^0.18.1
   csc_picker: ^0.2.7
   uuid: ^4.1.0
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
 ```
