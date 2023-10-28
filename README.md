@@ -1,16 +1,10 @@
-# test_task
+<h1 align="center"> Test Task App </h1> <br>
 
-A new Flutter project.
+## ✖️ Ordering Screen
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align='center'>
+    <image src='https://github.com/rahat-limit/Flutter-Test-Task/blob/main/assets/screenshots/ordering1.png' width='200'/>
+    <image src='https://github.com/rahat-limit/Flutter-Test-Task/blob/main/assets/screenshots/ordering2.png' width='200'/>
+    <image src='https://github.com/rahat-limit/Flutter-Test-Task/blob/main/assets/screenshots/ordering3.png' width='200'/>
+    <image src='https://github.com/rahat-limit/Flutter-Test-Task/blob/main/assets/screenshots/ordering4.png' width='200'/>
+</p>
