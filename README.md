@@ -8,3 +8,11 @@
     <image src='https://github.com/rahat-limit/Flutter-Test-Task/blob/main/assets/screenshots/ordering3.png' width='200'/>
     <image src='https://github.com/rahat-limit/Flutter-Test-Task/blob/main/assets/screenshots/ordering4.png' width='200'/>
 </p>
+
+## ✖️ Dependencies
+```yaml
+dependencies:
+  intl: ^0.18.1
+  csc_picker: ^0.2.7
+  uuid: ^4.1.0
+```
